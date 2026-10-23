@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="620" viewBox="0 0 760 620" font-family="Helvetica, Arial, sans-serif">
+<style>
+.bg{fill:#f6f6f4} .box{fill:#fff;stroke:#555;stroke-width:1.5} .soft{fill:#e9e9e6;stroke:#888;stroke-width:1.2}
+.dash{fill:none;stroke:#888;stroke-width:1.2;stroke-dasharray:6 4} .line{fill:#c9c9c4}
+text{fill:#333;font-size:14px} .h{font-size:20px;font-weight:bold} .s{font-size:12px;fill:#666} .note{font-size:13px;fill:#b4231b;font-style:italic}
+.arrow{stroke:#b4231b;stroke-width:1.3;fill:none}
+</style>
+<rect class="bg" width="100%" height="100%"/>
+<rect fill="#bdbdb8" width="760" height="620"/><rect class="box" x="80" y="40" width="600" height="540" rx="12"/><text class="h" x="110" y="84">Edit card</text><text class="s" x="560" y="84">History ⟲   ✕</text><text class="s" x="110" y="124">Title</text><rect class="box" x="110" y="132" width="540" height="36" rx="6"/><text class="s" x="110" y="200">Notes</text><rect class="box" x="110" y="208" width="540" height="90" rx="6"/><text class="s" x="110" y="330">Priority</text><rect class="box" x="110" y="338" width="170" height="36" rx="6"/><text x="120" y="361">Priority ▾</text><text class="s" x="294" y="330">Category</text><rect class="box" x="294" y="338" width="170" height="36" rx="6"/><text x="304" y="361">Category ▾</text><text class="s" x="478" y="330">Column</text><rect class="box" x="478" y="338" width="170" height="36" rx="6"/><text x="488" y="361">Column ▾</text><text class="s" x="110" y="410">Deadline</text><rect class="box" x="110" y="418" width="260" height="36" rx="6"/><text x="120" y="441">mm/dd/yyyy --:--</text><rect class="soft" x="110" y="520" width="90" height="36" rx="6"/><text x="128" y="543">Delete</text><rect class="box" x="460" y="520" width="90" height="36" rx="6"/><text x="478" y="543">Cancel</text><rect fill="#555" x="560" y="520" width="90" height="36" rx="6"/><text x="586" y="543" style="fill:#fff">Save</text>
+</svg>
