@@ -1,4 +1,4 @@
-# Dele's Kanban Board
+# Dele's Kanban Board [(Link to deployed page)] (https://deles-kanban.netlify.app/)
 
 A Kanban board for tracking work from idea to finished. Cards move through four columns (To Do, In Progress, Review, Done), each card is tagged with a category and an optional deadline, and every change is recorded in the card's history. It's built with React and Vite, needs no backend, and saves everything in the visitor's browser (localStorage).
 
